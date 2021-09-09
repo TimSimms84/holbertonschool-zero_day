@@ -1,1 +1,1 @@
-This repository is for mandatory Holberton project
+This is the VI projecit
