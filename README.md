@@ -1,1 +1,1 @@
-# holbertonschool-zero_day
+This repository is for mandatory Holberton project
